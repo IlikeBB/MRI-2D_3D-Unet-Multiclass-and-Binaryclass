@@ -1,4 +1,4 @@
-# MRI-2D&3D-Unet-Multiclass-and-binary
+# MRI-2D&3D-Unet-Multiclass-and-Binaryclass
 
 <h3>Data Augmentation</h3>
 <a href="https://github.com/dhuy228/augmented-volumetric-image-generator">dhuy228_augmented-volumetric-image-generator</a>
