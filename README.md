@@ -6,7 +6,7 @@
 tensorflow: 2.2.x</br>
 cuda: 10.1</br>
 keras: 2.4.3</br>
-<hr>
+<h3>Results</h3>
 <br>
 <img src="https://github.com/IlikeBB/MRI-2D_3D-Unet-Multiclass-and-Binaryclass/blob/main/1.png">
 <br>
