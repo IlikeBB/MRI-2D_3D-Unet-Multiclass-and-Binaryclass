@@ -8,7 +8,7 @@ cuda: 10.1</br>
 keras: 2.4.3</br>
 <h3>Results</h3>
 <br>
-<img src="https://github.com/IlikeBB/MRI-2D_3D-Unet-Multiclass-and-Binaryclass/blob/main/1.png">
+<img src="https://github.com/IlikeBB/F3D-fully-3D-detector-for-joint-segmentation-and-classification-for-ischemic-stroke/blob/main/train.png">
 <br>
-<img src="https://github.com/IlikeBB/MRI-2D_3D-Unet-Multiclass-and-Binaryclass/blob/main/2.png">
+<img src="https://github.com/IlikeBB/F3D-fully-3D-detector-for-joint-segmentation-and-classification-for-ischemic-stroke/blob/main/test.png">
 <br>
